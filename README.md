@@ -1,16 +1,182 @@
-### Hi there 👋
+![Diogo Realles](./img/banner-01.png)
 
-<!--
-**DiogoRealles/diogorealles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <b>[Diogo Realles 🡽](https://facebook.com/softwarealles)</b>
+<b>Front-end Jr.</b>
+<br><br><br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./img/languages.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+
+## <b>Sobre mim</b>
+- 🌱 Estou aprendendo UX/UI Design, Front-end e Inglês
+- 🤔 Busco ajuda com ES6+, NodeJS, VueJS, React...
+- 💬 Vamos bater um papo? abaixo vocês encontrarão meus contatos.
+
+Sou simpatizante da área de tecnologia.
+Atualmente estou aprimorando meus conhecimentos em HTML, CSS e JavaScript.
+Possuo conhecimentos básicos nas tecnologias NodeJS, NPM.
+Caminhando para conhecimentos nas tecnologias de VueJS, ReactJS
+e tudo o que envolve esse universo web para assim especializar-me como um ótimo profissional Front-End.
+Desejo ser protagonista da tecnologia e capaz de mudar o mundo através das linhas de código,
+dominar um idioma que poucos falam, mas que nós programadores temos o dom de decifrar
+e transformar em solução que agrega valor, moldar o futuro.
+Software é a alma da tecnologia, sem ela hardware não passa de sucata.
+Sempre em busca do próximo nível, sempre estudando, superando desafios junto com a comunidade dev.
+A medida que adquiro conhecimento, procuro contribuir com pessoas mais
+iniciantes em comunidades e grupos de desenvolvedores de que participo, pois
+acredito que é muito importante ajudar outras pessoas, compartilhando
+conhecimento e aprendendo cada vez mais.
+
+<p align="right"><b>
+
+  _Quanto mais suar no treino, menos sangrará no campo de batalha!_
+</p></b>
+<br><br><br>
+
+
+## <b>Cursos e Projetos</b>
+<table>
+  <thead>
+    <tr>
+      <th>Curso</th>
+      <th>Descrição</th>
+      <th>Projetos</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+
+![Origamid](./img/origamid.svg)
+      </td>
+      <td>
+        <b>[Origamid](https://github.com/DiogoRealles/cursos/tree/develop/origamid)</b><br>
+        Curso de Front-end e Web Design.
+      </td>
+      <td>
+        <b>[Origamid](https://github.com/DiogoRealles/cursos/tree/develop/origamid)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![Rocketseat](./img/rocketseat.svg)
+      </td>
+      <td>
+        <b>[Rocketseat](https://github.com/DiogoRealles/cursos/tree/develop/rocketseat)</b><br>
+        Plataforma completa de aprendizado contínuo em programação.
+      </td>
+      <td>
+        <b>[Rocketseat](https://github.com/DiogoRealles/cursos/tree/develop/rocketseat)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![FrontPUSH](./img/frontpush.svg)
+      </td>
+      <td>
+        <b>[FrontPUSH](https://github.com/DiogoRealles/cursos/tree/develop/frontpush)</b><br>
+        Curso online para entusiastas no front-end, conta com 3 minicursos: UI Design, Front-End e CSS Motion Design.
+      </td>
+      <td>
+        <b>[FrontPUSH](https://github.com/DiogoRealles/cursos/tree/develop/frontpush)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![NodeJS - Matheus Battisti](./img/udemy.svg)
+      </td>
+      <td>
+        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/cursos/tree/develop/udemy)</b><br>
+        Crie aplicações completas com Node.js, Express, MongoDB, MySQL, React.js, arquitetura MVC e muito mais!
+      </td>
+      <td>
+        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/cursos/tree/develop/udemy)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+![UI Expert](./img/uiexpert.svg)
+      </td>
+      <td>
+        <b>[UI Expert](https://github.com/DiogoRealles/cursos/tree/develop/uiexpert)</b><br>
+        Curso de UI Design, passando por todos os processos e fundamentos do UI Design.
+      </td>
+      <td>
+        <b>[UI Expert](https://github.com/DiogoRealles/cursos/tree/develop/uiexpert)</b><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br><br><br>
+
+
+## <b>Experiência / Linguagens e Ferramentas</b>:
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![HTML](./img/html.svg) &nbsp;
+  ![CSS](./img/css.svg) &nbsp;
+  ![SASS](./img/sass.svg) &nbsp;
+  ![Bootstrap](./img/bootstrap.svg) &nbsp;
+  ![JS](./img/js.svg) &nbsp;
+  ![Jquery](./img/jquery.svg) &nbsp;
+  ![Git](./img/git.svg) &nbsp;
+  ![Github](./img/github.svg) &nbsp;
+  ![MySQL](./img/mysql.svg) &nbsp;
+  ![Terminal](./img/terminal.svg) &nbsp;
+  ![VSCode](./img/vscode.svg) &nbsp;
+  ![Figma](./img/figma.svg) &nbsp;
+  ![AdobeXD](./img/xd.svg) &nbsp;
+
+</div>
+<br><br><br>
+
+
+## <b>Estou Estudando:</b>
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![NodeJS](./img/nodejs.svg) &nbsp;
+  ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![VueJS](./img/vuejs.svg) &nbsp;
+  ![Terminal](./img/terminal.svg) &nbsp;
+
+</div>
+<br><br><br>
+
+
+## <b>Tenho Interesse: </b>
+<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
+
+  ![ReactJS](./img/reactjs.svg) &nbsp;
+  ![VueJS](./img/vuejs.svg) &nbsp;
+  ![Docker](./img/docker.svg) &nbsp;
+
+</div>
+<br><br><br>
+
+
+![Diogo Realles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoRealles&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRealles)](https://github.com/DiogoRealles/github-readme-stats)
+<br><br><br>
+
+
+## <b>Porfólio</b>
+|           Hospedagem          |                             Projetos                         |
+|                -              |                              -                               |
+| ![Codepen](./img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
+| ![Replit](./img/replit.svg)   | <b>[Replit 🡽](https://replit.com/@softwarealles/)     </b>  |
+| ![Behance](./img/behance.svg) | <b>[Behance 🡽](https://www.behance.net/softwarealles/)</b>  |
+<br><br><br>
+
+
+## <b>Contate-me</b>
+<div>
+
+  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
+  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
+  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
+  <a href="https://linkedin.com/in/@DiogoRealles" target="_blank"><img src="https://img.shields.io/badge/Linkedin-@DiogoRealles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
+  <a href="https://www.realles.tk" target="_blank"><img src="https://img.shields.io/badge/SITE-www.realles.tk-black?style=for-the-badge"></a> &nbsp;
+
+</div>
+<br><br><br>
