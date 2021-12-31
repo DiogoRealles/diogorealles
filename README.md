@@ -51,11 +51,11 @@ conhecimento e aprendendo cada vez mais.
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/cursos/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
         Curso de Front-end e Web Design.
       </td>
       <td>
-        <b>[Origamid](https://github.com/DiogoRealles/cursos/tree/develop/origamid)</b><br>
+        <b>[Origamid](https://github.com/DiogoRealles/courses/tree/develop/origamid)</b><br>
       </td>
     </tr>
     <tr>
@@ -63,11 +63,11 @@ conhecimento e aprendendo cada vez mais.
 ![Rocketseat](./img/rocketseat.svg)
       </td>
       <td>
-        <b>[Rocketseat](https://github.com/DiogoRealles/cursos/tree/develop/rocketseat)</b><br>
+        <b>[Rocketseat](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
         Plataforma completa de aprendizado contínuo em programação.
       </td>
       <td>
-        <b>[Rocketseat](https://github.com/DiogoRealles/cursos/tree/develop/rocketseat)</b><br>
+        <b>[Rocketseat](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
       </td>
     </tr>
     <tr>
@@ -75,11 +75,11 @@ conhecimento e aprendendo cada vez mais.
 ![FrontPUSH](./img/frontpush.svg)
       </td>
       <td>
-        <b>[FrontPUSH](https://github.com/DiogoRealles/cursos/tree/develop/frontpush)</b><br>
+        <b>[FrontPUSH](https://github.com/DiogoRealles/courses/tree/develop/frontpush)</b><br>
         Curso online para entusiastas no front-end, conta com 3 minicursos: UI Design, Front-End e CSS Motion Design.
       </td>
       <td>
-        <b>[FrontPUSH](https://github.com/DiogoRealles/cursos/tree/develop/frontpush)</b><br>
+        <b>[FrontPUSH](https://github.com/DiogoRealles/courses/tree/develop/frontpush)</b><br>
       </td>
     </tr>
     <tr>
@@ -87,11 +87,11 @@ conhecimento e aprendendo cada vez mais.
 ![NodeJS - Matheus Battisti](./img/udemy.svg)
       </td>
       <td>
-        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/cursos/tree/develop/udemy)</b><br>
+        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/udemy)</b><br>
         Crie aplicações completas com Node.js, Express, MongoDB, MySQL, React.js, arquitetura MVC e muito mais!
       </td>
       <td>
-        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/cursos/tree/develop/udemy)</b><br>
+        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/udemy)</b><br>
       </td>
     </tr>
     <tr>
@@ -99,11 +99,11 @@ conhecimento e aprendendo cada vez mais.
 ![UI Expert](./img/uiexpert.svg)
       </td>
       <td>
-        <b>[UI Expert](https://github.com/DiogoRealles/cursos/tree/develop/uiexpert)</b><br>
+        <b>[UI Expert](https://github.com/DiogoRealles/courses/tree/develop/uiexpert)</b><br>
         Curso de UI Design, passando por todos os processos e fundamentos do UI Design.
       </td>
       <td>
-        <b>[UI Expert](https://github.com/DiogoRealles/cursos/tree/develop/uiexpert)</b><br>
+        <b>[UI Expert](https://github.com/DiogoRealles/courses/tree/develop/uiexpert)</b><br>
       </td>
     </tr>
   </tbody>
