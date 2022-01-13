@@ -13,13 +13,13 @@
 - 💬 Vamos bater um papo? abaixo vocês encontrarão meus contatos.
 
 Sou simpatizante da área de tecnologia.
-Atualmente estou aprimorando meus conhecimentos em HTML, CSS e JavaScript.
-Possuo conhecimentos básicos nas tecnologias NodeJS, NPM.
-Caminhando para conhecimentos nas tecnologias de VueJS, ReactJS
-e tudo o que envolve esse universo web para assim especializar-me como um ótimo profissional Front-End.
+Atualmente estou aprimorando meus conhecimentos em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.
+Possuo conhecimentos básicos nas tecnologias <b>NodeJS</b>, <b>NPM</b>.
+Caminhando para conhecimentos nas tecnologias de <b>VueJS</b>, <b>ReactJS</b>
+e tudo o que envolve esse universo web para assim especializar-me como um <b>ótimo profissional Front-End</b>.
 Desejo ser protagonista da tecnologia e capaz de mudar o mundo através das linhas de código,
 dominar um idioma que poucos falam, mas que nós programadores temos o dom de decifrar
-e transformar em solução que agrega valor, moldar o futuro.
+e transformar em solução que agrega valor, moldar o futuro.<br>
 Software é a alma da tecnologia, sem ela hardware não passa de sucata.
 Sempre em busca do próximo nível, sempre estudando, superando desafios junto com a comunidade dev.
 A medida que adquiro conhecimento, procuro contribuir com pessoas mais
