@@ -15,7 +15,7 @@ Sólidos conhecimentos em HTML - CSS - JS (Projetos próprios).<br>
 UI Design | Tipografia - Teoria das cores<br>
 Wireframe: Lo-Fi e Hi-Fi.<br>
 Prototipação: Lo-Fi e Hi-Fi<br>
-Componentes e Variantes.
+Componentes e Variantes.<br>
 Ferramentas: (Figma / Adobe-XD).<br>
 
 Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
