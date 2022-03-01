@@ -1,31 +1,24 @@
 ![Diogo Realles](./img/banner.png)
 
 # <b>[Diogo Realles 🡽](https://facebook.com/softwarealles)</b>
-<b>Front-end Jr.</b>
+<b>Front-end Jr.</b><br>
+<b>UI Designer Jr.</b>
 <br><br><br>
 
 
 <img src="./img/languages.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
-- 🌱 Estou aprendendo UX/UI Design, Front-end e Inglês
-- 🤔 Busco ajuda com ES6+, NodeJS, VueJS, React...
-- 💬 Vamos bater um papo? abaixo vocês encontrarão meus contatos.
+Desenvolvedor Front-end - Conhecimento em ReactJS - TypeScript - JavaScript (Projetos de cursos).<br>
+Sólidos conhecimentos em HTML - CSS - JS (Projetos próprios).<br>
 
-Sou simpatizante da área de tecnologia.
-Atualmente estou aprimorando meus conhecimentos em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.
-Possuo conhecimentos básicos nas tecnologias <b>NodeJS</b>, <b>NPM</b>.
-Caminhando para conhecimentos nas tecnologias de <b>VueJS</b>, <b>ReactJS</b>
-e tudo o que envolve esse universo web para assim especializar-me como um <b>ótimo profissional Front-End</b>.
-Desejo ser protagonista da tecnologia e capaz de mudar o mundo através das linhas de código,
-dominar um idioma que poucos falam, mas que nós programadores temos o dom de decifrar
-e transformar em solução que agrega valor, moldar o futuro.<br>
-Software é a alma da tecnologia, sem ela hardware não passa de sucata.
-Sempre em busca do próximo nível, sempre estudando, superando desafios junto com a comunidade dev.
-A medida que adquiro conhecimento, procuro contribuir com pessoas mais
-iniciantes em comunidades e grupos de desenvolvedores de que participo, pois
-acredito que é muito importante ajudar outras pessoas, compartilhando
-conhecimento e aprendendo cada vez mais.
+UI Design | Tipografia - Teoria das cores<br>
+Wireframe: Lo-Fi e Hi-Fi.<br>
+Prototipação: Lo-Fi e Hi-Fi<br>
+Componentes e Variantes.
+Ferramentas: (Figma / Adobe-XD).<br>
+
+Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
 <p align="right"><b>
 
@@ -155,12 +148,9 @@ conhecimento e aprendendo cada vez mais.
 <br><br><br>
 
 
-![Diogo Realles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiogoRealles&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRealles)](https://github.com/DiogoRealles/github-readme-stats)
-<br><br><br>
+## <b>Laboratório de Testes</b>
+<p>Aqui é aonde faço meus experimentos e afio minhas skills</p>
 
-
-## <b>Porfólio</b>
 |           Hospedagem          |                             Projetos                         |
 |                -              |                              -                               |
 | ![Codepen](./img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
