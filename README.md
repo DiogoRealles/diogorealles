@@ -9,18 +9,21 @@
 <img src="./img/languages.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
-Desenvolvedor Front-end - Conhecimento em ReactJS - TypeScript - JavaScript (Projetos de cursos).<br>
+<b>Desenvolvedor Front-end</b><br>
+Conhecimento em REACT - TYPESCRIPT - JAVASCRIPT (Projetos de cursos).<br>
 Sólidos conhecimentos em HTML - CSS - JS (Projetos próprios).<br>
 
-UI Design | Tipografia - Teoria das cores<br>
+<b>UI Design</b><br>
+Tipografia - Teoria das cores<br>
+Componentes e Variantes.<br>
 Wireframe: Lo-Fi e Hi-Fi.<br>
 Prototipação: Lo-Fi e Hi-Fi<br>
-Componentes e Variantes.<br>
+Protótipos interativos<br>
 Ferramentas: (Figma / Adobe-XD).<br>
 
 Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
-<p align="right"><b>
+<p><b>
 
   _Quanto mais suar no treino, menos sangrará no campo de batalha!_
 </p></b>
@@ -31,9 +34,9 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 <table>
   <thead>
     <tr>
-      <th>Curso</th>
+      <th>Curso / Projetos</th>
       <th>Descrição</th>
-      <th>Projetos</th>
+      <th>Ver mais</th>
     </tr>
   </thead>
 
@@ -65,26 +68,14 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
     </tr>
     <tr>
       <td>
-![FrontPUSH](./img/frontpush.svg)
+![Matheus Battisti](https://raw.githubusercontent.com/DiogoRealles/diogorealles/develop/img/hdc.svg)
       </td>
       <td>
-        <b>[FrontPUSH](https://github.com/DiogoRealles/courses/tree/develop/frontpush)</b><br>
-        Curso online para entusiastas no front-end, conta com 3 minicursos: UI Design, Front-End e CSS Motion Design.
+        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
+        Capacitar quem deseja ser desenvolvedor/programador para o mercado de trabalho.
       </td>
       <td>
-        <b>[FrontPUSH](https://github.com/DiogoRealles/courses/tree/develop/frontpush)</b><br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-![NodeJS - Matheus Battisti](./img/udemy.svg)
-      </td>
-      <td>
-        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/udemy)</b><br>
-        Crie aplicações completas com Node.js, Express, MongoDB, MySQL, React.js, arquitetura MVC e muito mais!
-      </td>
-      <td>
-        <b>[NodeJS - Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/udemy)</b><br>
+        <b>[Matheus Battisti](https://github.com/DiogoRealles/courses/tree/develop/hora-de-codar)</b><br>
       </td>
     </tr>
     <tr>
@@ -104,7 +95,7 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 <br><br><br>
 
 
-## <b>Experiência / Linguagens e Ferramentas</b>:
+## <b>Conhecimento / Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
 
   ![HTML](./img/html.svg) &nbsp;
