@@ -9,15 +9,15 @@
 <img src="./img/languages.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
-<b>Desenvolvedor Front-end</b><br>
-Conhecimento em REACT - TYPESCRIPT - JAVASCRIPT (Projetos de cursos).<br>
-Sólidos conhecimentos em HTML - CSS - JS (Projetos próprios).<br>
+<b>Front-end</b><br>
+Estudando REACT - TYPESCRIPT - ES6+ (Projetos de cursos).<br>
+Conhecimentos em JavaScript - HTML - CSS (SASS / BEM) (Projetos próprios).<br>
 
 <b>UI Design</b><br>
 Tipografia - Teoria das cores<br>
 Componentes e Variantes.<br>
-Wireframe: Lo-Fi e Hi-Fi.<br>
-Prototipação: Lo-Fi e Hi-Fi<br>
+Wireframe: Baixa fidelidade e Alta fidelidade.<br>
+Prototipação: Baixa fidelidade e Alta fidelidade<br>
 Protótipos interativos<br>
 Ferramentas: (Figma / Adobe-XD).<br>
 
