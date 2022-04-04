@@ -1,4 +1,4 @@
-[![Diogo Realles](./img/banner-2.png)](https://realles.tk/)
+[![Diogo Realles](./img/banner-02.png)](https://realles.tk/)
 
 # <b>[Diogo Realles 🡽](https://facebook.com/softwarealles)</b>
 <b>Front-end Jr.</b><br>
