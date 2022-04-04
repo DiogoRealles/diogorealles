@@ -6,7 +6,7 @@
 <br><br><br>
 
 
-<img src="./img/languages.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+<img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
 <b>Front-end</b><br>
