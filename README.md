@@ -56,7 +56,7 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
     </tr>
     <tr>
       <td>
-![Rocketseat](./img/rocketseat.svg)
+![Rocketseat](./img/rocketseat-origim.svg)
       </td>
       <td>
         <b>[Rocketseat](https://github.com/DiogoRealles/courses/tree/develop/rocketseat)</b><br>
@@ -121,7 +121,7 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
   ![NodeJS](./img/nodejs.svg) &nbsp;
   ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![VueJS](./img/vuejs.svg) &nbsp;
+  ![TS](./img/ts.svg) &nbsp;
   ![Terminal](./img/terminal.svg) &nbsp;
 
 </div>
