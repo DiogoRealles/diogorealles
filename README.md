@@ -44,6 +44,19 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
     <tr>
       <td>
 
+![B7Web](./img/b7web.svg)
+      </td>
+      <td>
+        <b>[B7Web](https://github.com/DiogoRealles/course-projects)</b><br>
+        Curso de Front-end e Web Design.
+      </td>
+      <td>
+        <b>[B7Web](https://github.com/DiogoRealles/course-projects)</b><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+
 ![Origamid](./img/origamid.svg)
       </td>
       <td>
