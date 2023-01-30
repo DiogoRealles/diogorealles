@@ -9,18 +9,17 @@
 
 ## <b>Sobre mim</b>
 ### Front-end - Conhecimentos:<br>
-React | TypeScript | JavaScript | Html 5 | Css 3 | Sass | Bootstrap 5<br>
-
+React | TypeScript | JavaScript | Html 5 | Css 3 | Sass | Bootstrap 5
 ### Ferramentas:
-GIT | GITHUB | VSCode
+Git | Github | VSCode
 
 ### UI Design - Conhecimentos:<br>
-Tipografia | Teoria das cores | Componentes e Variantes.<br>
+Tipografia | Teoria das cores | Grids | Componentes e Variantes.<br>
 Wireframe: Baixa fidelidade e Alta fidelidade.<br>
 Prototipação: Baixa fidelidade e Alta fidelidade | Protótipos interativos.<br>
+Styleguide: Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
 ### Ferramentas:
 Figma | Adobe-XD.<br>
-![image](https://user-images.githubusercontent.com/96884051/215364396-de5f7f71-2ed7-40ad-b292-ad4cd02b045b.png)
 
 Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
