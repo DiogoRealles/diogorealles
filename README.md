@@ -1,25 +1,26 @@
 [![Diogo Realles](./img/banner-02.png)](https://realles.tk/)
 
 # <b>[Diogo Realles 🡽](https://facebook.com/softwarealles)</b>
-<b>Front-end Jr.</b><br>
-<b>UI Designer Jr.</b>
+### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
 <br><br><br>
 
 
 <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
-<b>Front-end</b><br>
-Estudando REACT - TYPESCRIPT - ES6+ (Projetos de cursos).<br>
-Conhecimentos em JavaScript - HTML - CSS (SASS / BEM) (Projetos próprios).<br>
+### Front-end - Conhecimentos:<br>
+React | TypeScript | JavaScript | Html 5 | Css 3 | Sass | Bootstrap 5<br>
 
-<b>UI Design</b><br>
-Tipografia - Teoria das cores<br>
-Componentes e Variantes.<br>
+### Ferramentas:
+GIT | GITHUB | VSCode
+
+### UI Design - Conhecimentos:<br>
+Tipografia | Teoria das cores | Componentes e Variantes.<br>
 Wireframe: Baixa fidelidade e Alta fidelidade.<br>
-Prototipação: Baixa fidelidade e Alta fidelidade<br>
-Protótipos interativos<br>
-Ferramentas: (Figma / Adobe-XD).<br>
+Prototipação: Baixa fidelidade e Alta fidelidade | Protótipos interativos.<br>
+### Ferramentas:
+Figma | Adobe-XD.<br>
+![image](https://user-images.githubusercontent.com/96884051/215364396-de5f7f71-2ed7-40ad-b292-ad4cd02b045b.png)
 
 Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
