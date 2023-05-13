@@ -110,7 +110,22 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 
 ## <b>Conhecimento / Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
+  
+<div>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/ReactTS-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+  
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![SASS](./img/sass.svg) &nbsp;
