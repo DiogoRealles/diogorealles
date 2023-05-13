@@ -39,8 +39,6 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
 <b>Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
 <b>Prototipação:</b> Protótipos interativos. <br />
 <b>Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
-
-<b>_Procuro aplicar boas práticas de acessibilidade e semântica nos projetos_.</b>
 <br />
 
 <!-- 
