@@ -1,35 +1,49 @@
-[![Diogo Realles](./img/banner-02.png)](https://realles.tk/)
+[![Diogo Realles](./img/banner-02.png)](https://www.linkedin.com/in/diogorealles)
 
-# <b>[Diogo Realles 🡽](https://facebook.com/softwarealles)</b>
+# 👋 <b>[Diogo Realles 🡽](https://www.linkedin.com/in/diogorealles)</b>
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
-<br><br><br>
+<br />
 
 
 <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
 
 ## <b>Sobre mim</b>
-### Front-end - Conhecimentos:<br>
-React | TypeScript | JavaScript | Html 5 | Css 3 | Sass | Bootstrap 5
-### Ferramentas:
-Git | Github | VSCode
+Sou encantador de usuários e facilmente encantável, <br />
+desenvolvi e entreguei projetos como <br />
+landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+### <b>Front-end</b> <br />
+ - HTML Semântico
+ - Acessibilidade
+ - CSS/SVG Motion Design _(svg animado ao lado, eu que fiz)_ 👉
+  
+<div>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+</div>
+<div>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
+</div>
+<br />
 
-### UI Design - Conhecimentos:<br>
-Tipografia | Teoria das cores | Grids | Componentes e Variantes.<br>
-Wireframe: Baixa fidelidade e Alta fidelidade.<br>
-Prototipação: Baixa fidelidade e Alta fidelidade | Protótipos interativos.<br>
-Styleguide: Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
-### Ferramentas:
-Figma | Adobe-XD.<br>
+### <b>UI Design</b> <br >
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
 
-Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
+<b>Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
+<b>Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
+<b>Prototipação:</b> Protótipos interativos. <br />
+<b>Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
 
-<p><b>
+<b>_Procuro aplicar boas práticas de acessibilidade e semântica nos projetos_.</b>
+<br />
 
-  _Quanto mais suar no treino, menos sangrará no campo de batalha!_
-</p></b>
-<br><br><br>
-
-
+<!-- 
 ## <b>Cursos e Projetos</b>
 <table>
   <thead>
@@ -107,85 +121,32 @@ Procuro aplicar boas práticas de acessibilidade e semântica nos projetos.
 </table>
 <br><br><br>
 
-
-## <b>Conhecimento / Linguagens e Ferramentas</b>:
+-->
+## <b>Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-  
-<div>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=white" />
-</div>
-<div>
-  <img src="https://img.shields.io/badge/ReactTS-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white" />
-</div>
   
   ![HTML](./img/html.svg) &nbsp;
   ![CSS](./img/css.svg) &nbsp;
   ![SASS](./img/sass.svg) &nbsp;
   ![Bootstrap](./img/bootstrap.svg) &nbsp;
   ![JS](./img/js.svg) &nbsp;
-  ![Jquery](./img/jquery.svg) &nbsp;
+  ![JS](./img/react.svg) &nbsp;
+  ![JS](./img/ts.svg) &nbsp;
   ![Git](./img/git.svg) &nbsp;
   ![Github](./img/github.svg) &nbsp;
-  ![MySQL](./img/mysql.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
   ![VSCode](./img/vscode.svg) &nbsp;
   ![Figma](./img/figma.svg) &nbsp;
-  ![AdobeXD](./img/xd.svg) &nbsp;
 
 </div>
-<br><br><br>
-
-
-## <b>Estou Estudando:</b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![NodeJS](./img/nodejs.svg) &nbsp;
-  ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![TS](./img/ts.svg) &nbsp;
-  ![Terminal](./img/terminal.svg) &nbsp;
-
-</div>
-<br><br><br>
-
-
-## <b>Tenho Interesse: </b>
-<div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
-
-  ![ReactJS](./img/reactjs.svg) &nbsp;
-  ![VueJS](./img/vuejs.svg) &nbsp;
-  ![Docker](./img/docker.svg) &nbsp;
-
-</div>
-<br><br><br>
-
-
-## <b>Laboratório de Testes</b>
-<p>Aqui é aonde faço meus experimentos e afio minhas skills</p>
-
-|           Hospedagem          |                             Projetos                         |
-|                -              |                              -                               |
-| ![Codepen](./img/codepen.svg) | <b>[Codepen 🡽](https://codepen.io/SoftwaRealles)      </b>  |
-| ![Replit](./img/replit.svg)   | <b>[Replit 🡽](https://replit.com/@softwarealles/)     </b>  |
-| ![Behance](./img/behance.svg) | <b>[Behance 🡽](https://www.behance.net/softwarealles/)</b>  |
-<br><br><br>
-
+<br />
 
 ## <b>Contate-me</b>
 <div>
 
-  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20como%20%20posso%20ajudar?%20" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=success"></a> &nbsp;
-  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=international"></a> &nbsp;
-  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> &nbsp;
+  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
+  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
+  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
   <a href="https://www.realles.tk" target="_blank"><img src="https://img.shields.io/badge/SITE-www.realles.tk-black?style=for-the-badge"></a> &nbsp;
 
 </div>
-<br><br><br>
