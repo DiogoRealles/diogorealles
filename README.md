@@ -12,9 +12,10 @@ Sou encantador de usuários e facilmente encantável, <br />
 desenvolvi e entreguei projetos como <br />
 landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 ### <b>Front-end</b> <br />
- - HTML Semântico
- - Acessibilidade
- - CSS/SVG Motion Design _(svg animado ao lado, eu que fiz)_ 👉
+ <b>- HTML Semântico</b> <br />
+ <b>- SEO Otimizado</b> <br />
+ <b>- Acessibilidade</b> <br />
+ <b>- CSS/SVG Motion Design</b> _(svg animado ao lado, eu que fiz)_ 👉
   
 <div>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
@@ -35,10 +36,10 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
 ### <b>UI Design</b> <br >
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
 
-<b>Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
-<b>Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
-<b>Prototipação:</b> Protótipos interativos. <br />
-<b>Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
+ <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
+ <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
+ <b>- Prototipação:</b> Protótipos interativos. <br />
+ <b>- Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens
 <br />
 
 <!-- 
