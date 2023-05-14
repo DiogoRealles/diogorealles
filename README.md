@@ -13,7 +13,7 @@ desenvolvi e entreguei projetos como <br />
 landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 ### <b>Front-end</b>
  <b>- HTML Semântico</b> <br />
- <b>- SEO Otimizado</b> <br />
+ <b>- SEO Otimizado</b> | Google Analytics 4 <br />
  <b>- Acessibilidade</b> <br />
  <b>- CSS/SVG Motion Design</b> _(svg animado ao lado, eu que fiz)_ 👉
   
