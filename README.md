@@ -167,7 +167,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  **Front-end Jr.** \
  [**id360 New Media**](https://www.spacex.com/) • 2023 - Atualmente | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
- Projetos em destaque: [Website](https://www.id360.com.br/)
+ Projetos em destaque: [ - ](https://www.id360.com.br/)
  <br/> <br/>
 
 </div>
