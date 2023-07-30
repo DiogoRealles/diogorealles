@@ -159,7 +159,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  **Front-end Jr.** \
  [**Agência Moustache**](https://www.spacex.com/) • 2022 - 2023 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
- Projetos em destaque: [LevelUp](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/)
+ Projetos em destaque: [LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet](https://www.tbnet-novo.agenciamoustache.com.br/)
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
@@ -167,7 +167,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  **Front-end Jr.** \
  [**id360 New Media**](https://www.spacex.com/) • 2023 - Atualmente | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
- Projetos em destaque: [Website](https://www.gmmti.com.br/)
+ Projetos em destaque: [Website](https://www.id360.com.br/)
  <br/> <br/>
 
 </div>
