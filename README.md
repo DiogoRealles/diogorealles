@@ -1,4 +1,4 @@
-[![Diogo Realles](./img/banner-02.png)](https://www.linkedin.com/in/diogorealles)
+[![Diogo Realles](./img/banner-02.png)](https://www.diogorealles.github.io/portfolio)
 
 # 👋 <b>[Diogo Realles 🡽](https://www.linkedin.com/in/diogorealles)</b>
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
@@ -150,7 +150,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  
  **Front-end Jr.** \
  [**GMMTI**](https://www.spacex.com/) • 2019 - 2021 | Full-time \
- Linguagens & Tecnologias: `HTML5, CSS3, JavaScript`, `Bootstrap5`\
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5`\
  Projetos em destaque: [Website](https://www.gmmti.com.br/)
  <br/> <br/>
  
@@ -176,9 +176,9 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
 <div>
 
   <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
-  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/Diogo Realles-%230077B5?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
+  <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/DiogoRealles-%230077B5?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
   <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
-  <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
-  <a href="https://www.realles.tk" target="_blank"><img src="https://img.shields.io/badge/SITE-www.realles.tk-black?style=for-the-badge"></a> &nbsp;
+  <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
+  <a href="https://www.diogorealles.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/SITE-portfolio-black?style=for-the-badge"></a> &nbsp;
 
 </div>
