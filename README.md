@@ -140,6 +140,38 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
 </div>
 <br />
 
+<div>
+ 
+ # <b>Experiências</b>
+
+ Minhas experiências de trabalho mais recente:
+ 
+ [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
+ 
+ **Front-end Jr.** \
+ [**GMMTI**](https://www.spacex.com/) • 2019 - 2021 | Full-time \
+ Linguagens & Tecnologias: `HTML5, CSS3, JavaScript`, `Bootstrap5`\
+ Projetos em destaque: [Website](https://www.gmmti.com.br/)
+ <br/> <br/>
+ 
+ [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
+ 
+ **Front-end Jr.** \
+ [**Agência Moustache**](https://www.spacex.com/) • 2022 - 2023 | Full-time \
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress`\
+ Projetos em destaque: [LevelUp](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/)
+ <br/> <br/>
+ 
+ [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
+ 
+ **Front-end Jr.** \
+ [**id360 New Media**](https://www.spacex.com/) • 2023 - Atualmente | Full-time \
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next`\
+ Projetos em destaque: [Website](https://www.gmmti.com.br/)
+ <br/> <br/>
+
+</div>
+
 ## <b>Contate-me</b>
 <div>
 
