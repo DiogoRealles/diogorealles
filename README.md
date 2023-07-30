@@ -150,7 +150,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  
  **Front-end Jr.** \
  [**GMMTI**](https://www.spacex.com/) • 2019 - 2021 | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5`\
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5 | UI Design | Figma`\
  Projetos em destaque: [Website](https://www.gmmti.com.br/)
  <br/> <br/>
  
@@ -158,7 +158,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  
  **Front-end Jr.** \
  [**Agência Moustache**](https://www.spacex.com/) • 2022 - 2023 | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress`\
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
  Projetos em destaque: [LevelUp](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/) | [TBNet](https://www.gmmti.com.br/)
  <br/> <br/>
  
@@ -166,7 +166,7 @@ landing pages para <b>Level Up</b> | <b>Tbnet</b> | <b>APMP</b> com alto score d
  
  **Front-end Jr.** \
  [**id360 New Media**](https://www.spacex.com/) • 2023 - Atualmente | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next`\
+ Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
  Projetos em destaque: [Website](https://www.gmmti.com.br/)
  <br/> <br/>
 
