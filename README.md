@@ -1,4 +1,4 @@
-[![Diogo Realles](./img/banner-02.png)](https://diogorealles.github.io/portfolio)
+[![Diogo Realles](./img/banner-02.png)](https://diogorealles.github.io/)
 
 # 👋 <b>[Diogo Realles 🡽](https://www.linkedin.com/in/diogorealles)</b>
 ### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
