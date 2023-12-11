@@ -151,7 +151,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
- Projetos em destaque: [ - ](https://www.id360.com.br/)
+ Projetos em destaque: [Omini - Studio 27](https://www.id360.com.br/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) [Reserva Terrara](https://www.reservaterrara.com.br/)
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
