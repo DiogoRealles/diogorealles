@@ -151,7 +151,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
- Projetos em destaque: [Omini - Studio 27](https://www.id360.com.br/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)
+ Projetos em destaque: <b>[Omini - Studio 27](https://www.id360.com.br/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)</b>
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
@@ -159,7 +159,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
- Projetos em destaque: [LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet](https://www.tbnet-novo.agenciamoustache.com.br/)
+ Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet](https://www.tbnet-novo.agenciamoustache.com.br/)</b>
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
@@ -167,7 +167,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5 | UI Design | Figma`\
- Projetos em destaque: [Website](https://www.gmmti.com.br/)
+ Projetos em destaque: <b>[Website](https://www.gmmti.com.br/)</b>
  <br/> <br/>
 
 </div>
