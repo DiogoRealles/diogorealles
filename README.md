@@ -159,7 +159,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
- Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet](https://www.tbnet-novo.agenciamoustache.com.br/)</b>
+ Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - TecBan](https://www.tbnet.com.br/)</b>
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
