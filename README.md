@@ -122,6 +122,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
 <br><br><br>
 
 -->
+<!-- 
 ## <b>Linguagens e Ferramentas</b>:
 <div style="display: inline_block; text-decoration: none; margin-bottom: 30px"><br>
   
@@ -139,6 +140,8 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
 
 </div>
 <br />
+
+-->
 
 <div>
  
