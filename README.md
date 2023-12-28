@@ -148,7 +148,7 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.**
+ **Front-end Jr.**<br/>
  [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time
  
  Linguagens & Tecnologias:<br/>
@@ -175,7 +175,7 @@ Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinar
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.**
+ **Front-end Jr.**<br/>
  [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time
  
  Linguagens & Tecnologias:<br/>
@@ -200,7 +200,7 @@ Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinar
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
  
- **Front-end Jr.**
+ **Front-end Jr.**<br/>
  [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time
  
  Linguagens & Tecnologias:<br/>
