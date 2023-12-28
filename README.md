@@ -151,7 +151,15 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
- Projetos em destaque: <b>[Omini - Studio 27](https://lp-studio27.vercel.app/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)</b>
+ Projetos em destaque: <b>[Omini - Studio 27](https://lp-studio27.vercel.app/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)</b><br />
+ Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, sou responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗡𝗲𝘅𝘁𝗝𝗦𝟭𝟯 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦
+
+Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e para avaliação dos layouts
+Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲
+ 
+Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁
+Fui destacado a participar de projetos de grandes clientes como: Setin Archote Trisul e outros
+Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
@@ -159,7 +167,14 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
- Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - TecBan](https://www.tbnet.com.br/)</b>
+ Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - TecBan](https://www.tbnet.com.br/)</b> <br />
+ Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, fui responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 𝗷𝗤𝘂𝗲𝗿𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀
+Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 para avaliação dos layouts
+Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲
+ 
+Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁
+Fui destacado a participar de projetos de grandes clientes como: LevelUp TBNet APMP e outros
+Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
@@ -167,7 +182,13 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  **Front-end Jr.** \
  [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time \
  Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5 | UI Design | Figma`\
- Projetos em destaque: <b>[Website](https://www.gmmti.com.br/)</b>
+ Projetos em destaque: <b>[Website](https://www.gmmti.com.br/)</b> <br/>
+ - Participação na criação do novo site da empresa com as tecnologias 𝗛𝗧𝗠𝗟𝟱 𝗖𝗦𝗦𝟯 𝗦𝗔𝗦𝗦 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 𝗲 𝗕𝗢𝗢𝗧𝗦𝗧𝗥𝗔𝗣𝟱. Aplicando 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 para o melhor 𝗦𝗘𝗢 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲 e 𝗣𝗲𝗿𝗳𝗼𝗺𝗮𝗻𝗰𝗲 do projeto
+Utilizando conceitos de gitflow para versionamento do projeto com as tecnologias 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯
+Ganhando e expandindo experiências sobre 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 e 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻.
+- Elaborando e desenvolvendo layouts com a brand e conceito das empresas.
+- Codificação dos layouts nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽
+- Colaboração com o time de back-end
  <br/> <br/>
 
 </div>
