@@ -10,7 +10,7 @@
 ## <b>Sobre mim</b>
 Sou encantador de usuários e facilmente encantável, <br />
 desenvolvi e entreguei projetos como <br />
-landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+landing pages para <b>Level Up</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 ### <b>Front-end</b>
  <b>- HTML Semântico</b> <br />
  <b>- SEO Otimizado</b> | Google Analytics 4 <br />
