@@ -148,47 +148,75 @@ landing pages para <b>Level Up</b> | <b>TBNet</b> | <b>Trisul</b> | <b>Setin</b>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.** \
- [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | TypeScript | React | Next | UI Design | Figma`\
+ **Front-end Jr.**
+ [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time
+ 
+ Linguagens & Tecnologias:<br/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
+ 
  Projetos em destaque: <b>[Omini - Studio 27](https://lp-studio27.vercel.app/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)</b><br />
  Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, sou responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗡𝗲𝘅𝘁𝗝𝗦𝟭𝟯 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦
+ <br/>
 
-Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e para avaliação dos layouts
-Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲
+Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e para avaliação dos layouts.<br/>
+Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲.<br/>
  
-Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁
-Fui destacado a participar de projetos de grandes clientes como: Setin Archote Trisul e outros
-Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.
+Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁.<br/>
+Fui destacado a participar de projetos de grandes clientes como: Setin Archote Trisul e outros.<br/>
+Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.<br/>
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.** \
- [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | jQuery | Bootstrap5 | WordPress | UI Design | Figma`\
- Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - TecBan](https://www.tbnet.com.br/)</b> <br />
- Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, fui responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 𝗷𝗤𝘂𝗲𝗿𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀
-Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 para avaliação dos layouts
-Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲
+ **Front-end Jr.**
+ [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time
  
-Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁
-Fui destacado a participar de projetos de grandes clientes como: LevelUp TBNet APMP e outros
-Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.
+ Linguagens & Tecnologias:<br/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=Wordpress&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
+ 
+ Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - TecBan](https://www.tbnet.com.br/)</b> <br />
+ Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, fui responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 𝗷𝗤𝘂𝗲𝗿𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀.<br/>
+Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 para avaliação dos layouts.<br/>
+Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲.<br/>
+ 
+Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁.<br/>
+Fui destacado a participar de projetos de grandes clientes como: LevelUp TBNet APMP e outros.<br/>
+Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.<br/>
  <br/> <br/>
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
  
- **Front-end Jr.** \
- [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time \
- Linguagens & Tecnologias: `HTML5 | CSS3 | JavaScript | Bootstrap5 | UI Design | Figma`\
+ **Front-end Jr.**
+ [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time
+ 
+ Linguagens & Tecnologias:<br/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+  
  Projetos em destaque: <b>[Website](https://www.gmmti.com.br/)</b> <br/>
- - Participação na criação do novo site da empresa com as tecnologias 𝗛𝗧𝗠𝗟𝟱 𝗖𝗦𝗦𝟯 𝗦𝗔𝗦𝗦 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 𝗲 𝗕𝗢𝗢𝗧𝗦𝗧𝗥𝗔𝗣𝟱. Aplicando 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 para o melhor 𝗦𝗘𝗢 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲 e 𝗣𝗲𝗿𝗳𝗼𝗺𝗮𝗻𝗰𝗲 do projeto
-Utilizando conceitos de gitflow para versionamento do projeto com as tecnologias 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯
-Ganhando e expandindo experiências sobre 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 e 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻.
-- Elaborando e desenvolvendo layouts com a brand e conceito das empresas.
-- Codificação dos layouts nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽
-- Colaboração com o time de back-end
+ - Participação na criação do novo site da empresa com as tecnologias 𝗛𝗧𝗠𝗟𝟱 𝗖𝗦𝗦𝟯 𝗦𝗔𝗦𝗦 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 𝗲 𝗕𝗢𝗢𝗧𝗦𝗧𝗥𝗔𝗣𝟱. Aplicando 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 para o melhor 𝗦𝗘𝗢 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲 e 𝗣𝗲𝗿𝗳𝗼𝗺𝗮𝗻𝗰𝗲 do projeto.<br/>
+Utilizando conceitos de gitflow para versionamento do projeto com as tecnologias 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯.<br/>
+Ganhando e expandindo experiências sobre 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 e 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻.<br/>
+- Elaborando e desenvolvendo layouts com a brand e conceito das empresas.<br/>
+- Codificação dos layouts nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽.<br/>
+- Colaboração com o time de back-end.<br/>
  <br/> <br/>
 
 </div>
