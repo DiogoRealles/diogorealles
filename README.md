@@ -10,7 +10,7 @@
 ## <b>Sobre mim</b>
 Sou encantador de usuários e facilmente encantável, <br />
 desenvolvi e entreguei projetos como <br />
-landing pages para <b>Level Up</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 ### <b>Front-end</b>
  <b>- HTML Semântico</b> <br />
  <b>- SEO Otimizado</b> | Google Analytics 4 <br />
@@ -172,7 +172,7 @@ Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯�
 Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲.<br/>
  
 Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁.<br/>
-Fui destacado a participar de projetos de grandes clientes como: Setin Archote Trisul e outros.<br/>
+Fui destacado a participar de projetos de grandes clientes como: Setin, Archote, Trisul e outros.<br/>
 Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.<br/>
  <br/> <br/>
  
@@ -191,13 +191,13 @@ Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinar
   <img src="https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
  
- Projetos em destaque: <b>[LevelUp](https://br.leveluplatam.com/marketing/) | [TBNet - Grupo TecBan](https://www.tbnet.com.br/)</b> <br />
+ Projetos em destaque: <b>[Level Up! Games](https://br.leveluplatam.com/marketing/) | [TBNet - Grupo TecBan](https://www.tbnet.com.br/)</b> <br />
  Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, fui responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽 𝗷𝗤𝘂𝗲𝗿𝘆 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀.<br/>
 Utilizando ferramentas de interfaces como 𝗙𝗶𝗴𝗺𝗮 𝗔𝗱𝗼𝗯𝗲-𝗫𝗗 e 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 para avaliação dos layouts.<br/>
 Assegurando um fluxo constante de entregas com 𝗠𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗣𝗿𝗮́𝘁𝗶𝗰𝗮𝘀 de código e alto nível de 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 e 𝗦𝗘𝗢 e 𝗔𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝗱𝗮𝗱𝗲.<br/>
  
 Utilizando conceitos de gitflow com versionamento de códigos com 𝗚𝗶𝘁 e 𝗚𝗶𝘁𝗵𝘂𝗯/𝗕𝗶𝘁𝗯𝘂𝗰𝗸𝗲𝘁.<br/>
-Fui destacado a participar de projetos de grandes clientes como: LevelUp TBNet APMP e outros.<br/>
+Fui destacado a participar de projetos de grandes clientes como: Level Up! Games, TBNet, APMP e outros.<br/>
 Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinares em 𝗨𝗜 𝗗𝗲𝘀𝗶𝗴𝗻 e 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 me permitiram auxiliar e trabalhar e cooperar com equipe de Designer e Back-end e a supervisão de QA para garantir a qualidade das interfaces, experiência e usabilidade do usuário.<br/>
  <br/> <br/>
  
