@@ -227,9 +227,9 @@ Ganhando e expandindo experiências sobre 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 e �
 ## <b>Contate-me</b>
 <div>
 
-  <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
+  <!-- <a href="https://web.whatsapp.com/send?phone=+5511987868046&text=Olá%20vim%20%20pelo%20seu%20github,%20podemos%20conversar?" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-(11)98786--8046-%33920f/?style=for-the-badge&logo=whatsapp&logoColor=ffffff"></a> &nbsp;
   <a href="https://www.facebook.com/softwarealles" target="_blank"><img src="https://img.shields.io/badge/Facebook-/DiogoRealles-%230077B5?style=for-the-badge&logo=facebook&logoColor=ffffff"></a> &nbsp;
-  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp;
+  <a href="mailto: diogorealles@hotmail.com"><img src="https://img.shields.io/badge/Email-diogorealles@hotmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=ffffff"></a> &nbsp; /-->
   <a href="https://www.linkedin.com/in/diogorealles/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-/diogorealles-blue?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a> &nbsp;
   <a href="https://diogorealles.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/SITE-portfolio-black?style=for-the-badge"></a> &nbsp;
 
