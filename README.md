@@ -151,7 +151,7 @@ landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Tri
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.**<br/>
+ **Front-end.**<br/>
  [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time
  
  Linguagens & Tecnologias:<br/>
@@ -164,7 +164,7 @@ landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Tri
   <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
  
- Projetos em destaque: <b>[Omini - Studio 27](https://lp-studio27.vercel.app/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/)</b><br />
+ Projetos em destaque: <b>[Omini - Studio 27](https://lp-studio27.vercel.app/) | [Quinta da Baroneza](https://planodiretor-baroneza.vercel.app/) | [Reserva Terrara](https://www.reservaterrara.com.br/) | [Boulevard - Vila Romana](https://www.boulevardvilaromana.com.br/)</b><br />
  Como 𝗱𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗲𝗱𝗼𝗿 𝘄𝗲𝗯 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱, sou responsável pelo desenvolvimento e entrega de projetos nas tecnologias: 𝗛𝗧𝗠𝗟 𝗖𝗦𝗦 𝗦𝗔𝗦𝗦 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 𝗡𝗲𝘅𝘁𝗝𝗦𝟭𝟯 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦
  <br/>
 
@@ -178,7 +178,7 @@ Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinar
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Agência Moustache" src="./img/logo-02.png"/>](https://nubank.com.br/)
  
- **Front-end Jr.**<br/>
+ **Front-end.**<br/>
  [**Agência Moustache**](https://www.br.leveluplatam.com/marketing/) • 2022 - 2023 | Full-time
  
  Linguagens & Tecnologias:<br/>
@@ -203,7 +203,7 @@ Minha facilidade de comunicação e conhecimentos e habilidades multidisciplinar
  
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Gmmti" src="./img/logo-01.png"/>](https://gmmti.com.br/)
  
- **Front-end Jr.**<br/>
+ **Front-end.**<br/>
  [**GMMTI**](https://www.gmmti.com.br/) • 2019 - 2021 | Full-time
  
  Linguagens & Tecnologias:<br/>
