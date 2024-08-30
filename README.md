@@ -10,7 +10,8 @@
 
 ## <b>Sobre mim</b>
 Desenvolvi e entreguei projetos como <br />
-landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> <br />
+com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 <!--
 ### <b>Front-end</b>
  <b>- HTML Semântico</b> <br />
