@@ -1,21 +1,22 @@
 [![Diogo Realles](./img/banner-02.png)](https://diogorealles.github.io/)
 
 # 👋 <b>[Diogo Realles 🡽](https://www.linkedin.com/in/diogorealles)</b>
-### <b>Desenvolvedor Front End</b> | <b>UI Designer</b>
+### <b>Desenvolvedor Web Front-end</b> | <b>UI Designer</b>
 <br />
 
-
+<!--
 <img src="./img/languages-2.svg" min-width="400" max-width="400" width="400" align="right" alt="badges languages">
+-->
 
 ## <b>Sobre mim</b>
-Sou encantador de usuários e facilmente encantável, <br />
-desenvolvi e entreguei projetos como <br />
+Desenvolvi e entreguei projetos como <br />
 landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Trisul</b> | <b>Setin</b> | com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
+<!--
 ### <b>Front-end</b>
  <b>- HTML Semântico</b> <br />
  <b>- SEO Otimizado</b> | Google Analytics 4 <br />
  <b>- Acessibilidade</b> <br />
- <b>- CSS/SVG Motion Design</b> _(svg animado ao lado, eu que fiz)_ 👉
+ -->
   
 <div>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
@@ -32,12 +33,13 @@ landing pages para <b>Level Up! Games</b> | <b>TBNet - Grupo TecBan</b> | <b>Tri
   <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
 </div>
 <br />
-
+<!--
 ### <b>UI Design</b>
  <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
  <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
  <b>- Prototipação:</b> Protótipos interativos. <br />
  <b>- Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens <br />
+ -->
  
  <div>
    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
