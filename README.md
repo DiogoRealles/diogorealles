@@ -21,6 +21,7 @@ com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
   
 <div>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ffffff" />
@@ -28,23 +29,26 @@ com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
 </div>
 <div>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
+ <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
 </div>
 <br />
+
 <!--
 ### <b>UI Design</b>
  <b>- Tipografia | Teoria das cores | Grids | Componentes & Variantes.</b> <br />
  <b>- Wireframe:</b> Baixa fidelidade e Alta fidelidade. <br />
  <b>- Prototipação:</b> Protótipos interativos. <br />
  <b>- Styleguide:</b> Tipografia | Estados dos componentes | Paleta de cores | Grids | Tokens <br />
- -->
  
  <div>
    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff" />
  </div>
+ -->
 
 <!-- 
 ## <b>Cursos e Projetos</b>
@@ -155,7 +159,7 @@ com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
  [<img style="margin-right: 10" align="left" height="94px" width="94px" alt="Nubank" src="./img/logo-03.png"/>](https://nubank.com.br/)
  
  **Front-end.**<br/>
- [**id360 New Media**](https://www.id360.com.br/) • 2023 - Atualmente | Full-time
+ [**id360 New Media**](https://www.id360.com.br/) • 2023 - 2024 | Full-time
  
  Linguagens & Tecnologias:<br/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff" />
