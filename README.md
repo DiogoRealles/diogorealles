@@ -28,9 +28,10 @@ com alto score de <b>SEO</b>, <b>Acessibilidade</b> e <b>Boas Práticas.</b>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
